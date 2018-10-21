@@ -31,4 +31,4 @@ http://databank.worldbank.org/data/reports.aspx?source=2&series=SL.SLF.0714.MA.Z
 07
 Children In Employment, Self-Employed, Female (% Of Female Children In Employment, Ages 7-14)
 
-https://datacatalog.worldbank.org/search?search_api_views_fulltext_op=AND&query=Self-Employed%2C+male+%28%25+Of+male+Employment%29&nid=&sort_by=search_api_relevance&sort_by=search_api_relevance
+http://databank.worldbank.org/data/reports.aspx?source=2&series=SL.SLF.0714.FE.ZS
