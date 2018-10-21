@@ -14,14 +14,14 @@ Employers, Female (% Of Female Employment)
 http://databank.worldbank.org/data/reports.aspx?source=2&series=SL.EMP.MPYR.FE.ZS
 
 04
-Self-Employed, Female (% Of Female Employment)
-
-http://databank.worldbank.org/data/reports.aspx?source=2&series=SL.EMP.SELF.FE.ZS
-
-05
 Self-Employed, Male (% Of Male Employment)
 
 http://databank.worldbank.org/data/reports.aspx?source=2&series=SL.EMP.SELF.MA.ZS
+
+05
+Self-Employed, Female (% Of Female Employment)
+
+http://databank.worldbank.org/data/reports.aspx?source=2&series=SL.EMP.SELF.FE.ZS
 
 06
 Children In Employment, Self-Employed, Male (% Of Male Children InEmployment, Ages 7-14)
