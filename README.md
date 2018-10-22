@@ -75,8 +75,10 @@ Email: m1446657835@gmail.com
 
 
 
-6. Инструменты:
-Форматы данных: XML
+6. Инструменты:python, office,pyecharts
+
+Форматы данных: XML,ipynb
+
 
 
 
