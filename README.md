@@ -81,5 +81,6 @@ python, office,pyecharts
 Форматы данных: XML,xlsx,ipynb
 
 
-
+# Статья(дата-эссе)
+https://docs.google.com/document/d/1vjYUb9EAMnzV3vqpEHxvBSPfJ8YTTp1IN3UqiXEfB6U/edit
 
